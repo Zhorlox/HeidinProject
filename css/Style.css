@@ -27,7 +27,7 @@ color:#666666;
 #topmenu li {
         display:inline;
 }
-#topmenu lis {
+#topmenu a {
         display:block;
         float:left;
         margin:0px 0px 0px0px;
