@@ -1,12 +1,7 @@
 body {
-	background-image: url("images/QVFUaZP.jpg");
+	background-image:url("image/QVFUaZP.jpg");
 	background-size: auto 50vh;
 	background-position: center;
-	background-repeat: repeat;
-	background-color: #A52A2A;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size: 15px;
-	font-weight: normal;
-	font-style: normal;
+	
   
 }  
