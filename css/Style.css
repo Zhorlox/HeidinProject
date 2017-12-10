@@ -1,11 +1,11 @@
 body {
 	
 	background-image: url(https://github.com/Zhorlox/HeidinProject/blob/master/images/QVFUaZP.jpg);
-	
-	
-	
-	
-	
-  
 }
 
+
+table, th, td {
+	padding: 6px;
+    border: 2px solid #000000;
+    border-collapse: collapse;
+}
